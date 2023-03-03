@@ -5,6 +5,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.BeforeTest;
 
 public class Base {
+	//base class
 	public static final String URL="https://www.accessibility.com/digital-lawsuits";
 	public static RemoteWebDriver driver;
 	@BeforeTest

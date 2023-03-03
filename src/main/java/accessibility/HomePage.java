@@ -14,7 +14,7 @@ import java.util.regex.*;
 import base.Base;
 
 public class HomePage extends Base {
-	
+	//home page
 	public HomePage() {
 		PageFactory.initElements(driver, this);
 	}
