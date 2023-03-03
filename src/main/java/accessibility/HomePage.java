@@ -52,7 +52,7 @@ public class HomePage extends Base {
 				System.out.println("Plaintiff: " + plaintiffName);
 				System.out.println("Defendant: " + defendantName);
 				String d= "ANDREW TORO";
-				//Assert.assertEquals(d, plaintiffName);
+				Assert.assertEquals(d, plaintiffName);
 			}
 		}
 
