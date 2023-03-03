@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-03T11:01:12 IST" name="Default suite" finished-at="2023-03-03T11:01:54 IST" duration-ms="42162">
+    <groups>
+    </groups>
+    <test started-at="2023-03-03T11:01:12 IST" name="Default test" finished-at="2023-03-03T11:01:54 IST" duration-ms="42162">
+      <class name="com.assingment.test.PlaintiffDefendantExtractor">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.assingment.test.PlaintiffDefendantExtractor@61c4eee0]" started-at="2023-03-03T11:01:12 IST" name="openBrowser" finished-at="2023-03-03T11:01:48 IST" duration-ms="35903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="verifyText()[pri:0, instance:com.assingment.test.PlaintiffDefendantExtractor@61c4eee0]" started-at="2023-03-03T11:01:49 IST" name="verifyText" finished-at="2023-03-03T11:01:50 IST" duration-ms="1251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText -->
+      </class> <!-- com.assingment.test.PlaintiffDefendantExtractor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
